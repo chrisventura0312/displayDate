@@ -18,4 +18,6 @@
             </div>
         </div>
     </div>
+<script src="/js/alert.js"></script>
+</body>
 </html>
